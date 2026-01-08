@@ -38,7 +38,7 @@
 ### 🌐 Connect With Me
 - 💼 LinkedIn: *www.linkedin.com/in/ashraful87*
 - 🌐 Portfolio: *(coming soon)*
-- 📫 Email: **asraful.careerc@gmail.com**
+- 📫 Email: **asraful.career07@gmail.com**
 
 ---
 
