@@ -1,5 +1,5 @@
-# Ashraful
-<h1 align="center">Hi 👋, I'm Asraful</h1>
+
+<h1 align="center">Hi 👋, I'm Ashraful</h1>
 <h3 align="center">Computer Science Student | Security & Technology Enthusiast</h3>
 
 ---
@@ -36,7 +36,7 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: *coming soon*
+- 💼 LinkedIn: *www.linkedin.com/in/ashraful87*
 - 🌐 Portfolio: *(coming soon)*
 - 📫 Email: **asraful.careerc@gmail.com**
 
